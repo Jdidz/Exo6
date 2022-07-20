@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 salades
 tomates
 epinard
-=======
 Beans.
 Grains. 
 Tempeh. 
@@ -45,4 +43,3 @@ De la moutarde,
 Du yaourt de cajou, 
 Des beurres d’oléagineux (sésame et noisette principalement),
 De la mayo vegan et du ketchup bien industriel ;)
->>>>>>> c7ddc745662390aa53fb51302eac398036b27b2b
