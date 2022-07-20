@@ -37,6 +37,7 @@ De la sauce soja ou du tamari,
 Du sirop d’érable of course, 
 De la margarine végétale (on l’utilise de moins en moins mais ça me sert pour certaines crème en pâtisserie), 
 De la moutarde, 
+test
 Du yaourt de cajou, 
 Des beurres d’oléagineux (sésame et noisette principalement),
-De la mayo vegan et du ketchup bien industriel ;)
+De la mayo vegan et du ketchup bien industriel ;) test
