@@ -1,3 +1,3 @@
-graines
-haricots
+graine
+haricot
 eau

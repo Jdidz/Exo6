@@ -1,3 +1,3 @@
-salade
-tomate
+salades
+tomates
 epinard
